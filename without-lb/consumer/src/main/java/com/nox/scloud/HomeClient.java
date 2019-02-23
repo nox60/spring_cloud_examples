@@ -14,5 +14,6 @@ public interface  HomeClient {
 
     @GetMapping("/")
     String consumerRootPath();
+
     
 }
