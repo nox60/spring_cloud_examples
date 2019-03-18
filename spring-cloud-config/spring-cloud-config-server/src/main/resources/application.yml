@@ -1,0 +1,23 @@
+server:
+  port: 8555
+
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+
+
+
+#    spring.application.name=config-server
+#    server.port=8888
+#    spring.cloud.config.label=master
+#    spring.cloud.config.server.git.uri=https://github.com/souyunku/spring-cloud-config.git
+#    spring.cloud.config.server.git.search-paths=spring-cloud-config
+
+#spring.cloud.config.server.git.username=your username
+#spring.cloud.config.server.git.password=your password
+
+
+# https://cloud.spring.io/spring-cloud-config/multi/multi__spring_cloud_config_server.html

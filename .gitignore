@@ -10,10 +10,13 @@
 *.svn
 doc
 /target
-*/target
+**/target/*
 /bin
 /.settings
 /.classpath
 /.project
 /src/main/webapp/uploadfiles/*
 rebel*.xml
+*.project
+*.classpath
+**/.settings/*
