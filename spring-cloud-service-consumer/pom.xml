@@ -50,6 +50,6 @@
         </dependency>
     </dependencies>
     <build>
-        <finalName>eurekaperson</finalName>
+        <finalName>eurekaperson</finalName> 
     </build>
 </project>
